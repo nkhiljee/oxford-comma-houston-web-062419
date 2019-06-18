@@ -1,4 +1,4 @@
 def oxford_comma(array)
 
-return ""
+return array.to_sentence
 end
